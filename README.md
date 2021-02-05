@@ -9,6 +9,10 @@
 
 <br/>
 
+## Haven't upload the project yet.
+
+<br/>
+
 ## Copyright and License
 Copyright (c) 2020 Vincent Villafuerte released under the <a href="https://github.com/vinzvinci/Starcoffee/blob/main/LICENSE">MIT</a> license
 
